@@ -29,9 +29,9 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/monu-kumar-219lp)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react)](https://myportfolio9877.netlify.app)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:monucs154@gmail.com)
 
 ---
 
