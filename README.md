@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Next.js & MongoDB**
 - 🔭 I’m working on exciting **React & Node.js projects**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Portfolio](https://yourwebsite.com)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/monu-kumar-219lp) | [Portfolio](https://myportfolio9877.netlify.app)
 
 ---
 
